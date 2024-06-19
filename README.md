@@ -23,7 +23,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img alt="React" width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
+  <img alt="Bootstarp" width="50" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif">
+  <img alt="Javasricpt" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  <img alt="Python" width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshkandan&show_icons=true&locale=en&layout=compact" alt="dhaneshkandan" /></p>
 
