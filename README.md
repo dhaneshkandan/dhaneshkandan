@@ -12,11 +12,12 @@
 - 👨‍💻 My portfolio Webite [https://dhaneshkandan.github.io/](https://dhaneshkandan.github.io/)
 
 - 📫 How to reach me **dhaneshkandan@gmail.com**
+  
+- 🔭 My latest project (https://muslimgifts.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhaneshkandan" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="dhaneshkandan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhaneshkandan" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="dhaneshkandan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhaneshkandan" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="dhaneshkandan" height="30" width="40" /></a>  
 <a href="https://instagram.com/dhanesh_5362_" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="dhanesh_5362_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhanesh_5362" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhanesh_5362" height="30" width="40" /></a>
 </p>
