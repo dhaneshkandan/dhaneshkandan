@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://dhaneshkandan.github.io/](https://dhaneshkandan.github.io/)
+- 👨‍💻 My portfolio Webite [https://dhaneshkandan.github.io/](https://dhaneshkandan.github.io/)
 
 - 📫 How to reach me **dhaneshkandan@gmail.com**
 
